@@ -1,0 +1,30 @@
+{
+  "name": "bower-ex",
+  "version": "1.0",
+  "description": "demo proj",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "demo"
+  ],
+  "authors": [
+    "mani.k"
+  ],
+  "license": "none",
+  "homepage": "www.abc.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
